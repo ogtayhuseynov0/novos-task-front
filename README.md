@@ -22,7 +22,7 @@ Font Tech: Vue Quasar
     - [X] If the user signs out and signs in again, his training plan should be loaded in the
       same order
     - [X] The training sessions baket should be initialized with 5 training sessions.
-    - [X]The training plan should be automatically saved in the DB after each action by
+    - [X] The training plan should be automatically saved in the DB after each action by
           the user
 
 
