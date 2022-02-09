@@ -26,6 +26,7 @@ Font Tech: Vue Quasar
           the user
 
 ##API url change
+
 You can change default api url from ```axios.ts``` - line 16
 ```const api = axios.create({ baseURL: 'http://localhost:8080/api' });```
 
