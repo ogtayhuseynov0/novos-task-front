@@ -3,7 +3,7 @@
 
 Font Tech: Vue Quasar
 
-##Todos
+## Todos
 - [X] Authentication: email and password
   - [X] sign-up
   - [X] sign-in
@@ -25,6 +25,9 @@ Font Tech: Vue Quasar
     - [X] The training plan should be automatically saved in the DB after each action by
           the user
 
+https://user-images.githubusercontent.com/25150050/153211584-047de516-af13-4193-8b3b-866a74b94e71.mp4
+
+
 ## API url change
 
 You can change default api url from ```axios.ts``` - line 16
@@ -36,6 +39,9 @@ You can change default api url from ```axios.ts``` - line 16
 
 ```bash
 yarn
+
+
+
 ```
 
 ### Start the app in development mode (hot-code reloading, error reporting, etc.)
