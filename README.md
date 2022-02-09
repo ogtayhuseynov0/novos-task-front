@@ -7,7 +7,7 @@ Font Tech: Vue Quasar
 - [X] Authentication: email and password
   - [X] sign-up
   - [X] sign-in
-  - [X]
+  - [X] log out
 - [X] Signed-in user should be able to build a training plan for himself using a
     minimalistic interface with the following features:
     - [X] Creating a new training session and adding it to the
@@ -15,7 +15,7 @@ Font Tech: Vue Quasar
     - [X] Dragging training sessions from the training-sessions-bank to his training
       plan to add a training session to his training plan
     - [X] Removing a training session from the training plan back to the bank
-    - [X]. Re-ordering his training plan by dragging the training sessions
+    - [X] Re-ordering his training plan by dragging the training sessions
     - [X] Resetting the training plan (moving all the training sessions to the bank)
     - [X] Marking a training session as completed
     - [X] Deleting training plans from the bank
